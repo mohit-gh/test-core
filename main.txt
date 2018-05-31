@@ -1,0 +1,3 @@
+In this repository, I test some php core concepts like Crud OOPS, Inheritance,Namespace, Method Overloading, Abstract, Interface,
+Final Method and Class, Class and Object, Date Function, Static Class and Method, Star Series, Email Attachment and SMTP,
+JSON Response In Ajax, JSON 
